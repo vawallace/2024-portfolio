@@ -6,7 +6,7 @@ CheckList:
 
 - [ ] Base Structure
 - [ ] SCSS Styling Setup
-- [ ] Docker Compose Setup
+~~- [ ] Docker Compose Setup~~ Decide to host statically
 - [ ] About Me Section
 - [ ] Contact Me Section
 - [ ] Portfolio Section
