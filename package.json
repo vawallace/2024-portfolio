@@ -10,23 +10,25 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@fortawesome/pro-solid-svg-icons": "^6.5.1",
+    "@fortawesome/react-fontawesome": "^0.2.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "@fortawesome/pro-solid-svg-icons": "^6.5.1",
-    "@fortawesome/react-fontawesome": "^0.2.0"
+    "tsx": "^4.7.1"
   },
   "devDependencies": {
+    "@types/node-sass": "^4.11.7",
     "@types/react": "^18.2.55",
     "@types/react-dom": "^18.2.19",
     "@typescript-eslint/eslint-plugin": "^6.21.0",
     "@typescript-eslint/parser": "^6.21.0",
     "@vitejs/plugin-react": "^4.2.1",
-    "@types/node-sass": "^4.11.7",
-    "node-sass": "^9.0.0",
-    "sass": "^1.70.0",
+    "aws-cdk-lib": "2.121.1",
     "eslint": "^8.56.0",
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.5",
+    "node-sass": "^9.0.0",
+    "sass": "^1.70.0",
     "typescript": "^5.2.2",
     "vite": "^5.1.0"
   }

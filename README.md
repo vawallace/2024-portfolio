@@ -5,6 +5,14 @@ This repo serves as the repo for my 2024 version of my public portfolio. This ye
 CheckList:
 
 - [x] Base Structure
+- [ ] CI/CD
+    - [ ] Github Actions
+    - [ ] Github Environments
+    - [ ] Github Secrets Setup
+    - [x] AWS CDK Integration - Base Setup
+    - [x] AWS CDK Integration - S3
+    - [x] AWS CDK Integration - CloudFront
+    - [x] AWS CDK Integration - Distrubutions
 - [x] SCSS Styling Setup
 - [x] Add FontAwesome Pro Reusable Component
 ~~- [ ] Docker Compose Setup~~ Decide to host statically
