@@ -1,4 +1,4 @@
-name: 'Deploy to Digital Ocean Droplet'
+name: 'Deploy to AWS 🚀'
 on:
   push:
     branches:
